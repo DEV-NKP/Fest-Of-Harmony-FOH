@@ -1,6 +1,6 @@
 # FEST OF HARMONY (FOH)
 
-| WELCOME TO FOH(FEST OF HARMONY) |
+| WELCOME TO FOH (FEST OF HARMONY) |
 
  ----------------
  | Introduction |
