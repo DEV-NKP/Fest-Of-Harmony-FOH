@@ -103,7 +103,7 @@ The project FOH will be a nature-based project. There will be user control in so
 ![LANDING_PAGE_2!](README_IMAGE/landing_page_2.PNG)
 
 > FOH is designed with an unique and attractive logo.
-![LOGO!](README_IMAGE/logo.png)
+![LOGO!](README_IMAGE/logo.PNG)
 
 > Every instructions to run all the component is in detail in this page.
 ![INSTRUCTION_PAGE!](README_IMAGE/instruction_page.PNG)
@@ -115,7 +115,7 @@ The project FOH will be a nature-based project. There will be user control in so
 ![CATHERINE_WHEEL!](README_IMAGE/catherine_wheel.PNG)
 
 > You can play a game using "P" button.
-![GAME!](README_IMAGE/game.png)
+![GAME!](README_IMAGE/game.PNG)
 
 > A village fair is all about celebrations and celebration is not possible without a balloon. So to enable balloon you should press "B".
 ![BALLOON!](README_IMAGE/balloon.PNG)
