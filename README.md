@@ -38,8 +38,11 @@ Thank you everyone.
 -------------------------------------------------
 
  >> Open "main.cpp" in the CodeBlocks.
+ 
  >> CodeBlocks will open the code for you.
+ 
  >> Press on the "Build & Run" option from the above toolbox.
+ 
  >> The system will be ready to use.
 
 ---------------------------
@@ -47,7 +50,9 @@ Thank you everyone.
 ---------------------------
 
  >> "FOH" is also available in .exe format.
+ 
  >> Just double tap on the .exe file to install.
+ 
  >> After installation, you are welcome to use SPI.
 
 --------------------
