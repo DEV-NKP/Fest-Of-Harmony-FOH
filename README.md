@@ -88,9 +88,9 @@ The project FOH will be a nature-based project. There will be user control in so
 		Github		: https://github.com/Dipanwita-Saha
 
 	 4. Niger Sultana Nishi
-		Email		: 
-		LinkedIn	: 
-		Github		: 
+		Email		: nishisultana608@gmail.com
+		LinkedIn	: https://www.linkedin.com/in/niger-sultana-nishi-775701250/
+		Github		: https://github.com/Niger-Sultana-Nishi
 
 	 5. Shamsunnahar Riya
 		Email		: 
